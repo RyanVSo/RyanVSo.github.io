@@ -1,10 +1,11 @@
-# Software Engineer
+# Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education						       		
-- M.S., Computer Science	| New York University (_December 2024_)	 			        		
-- B.A., Computer Science and Data Science | New York University (_December 2023_)
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

@@ -1,5 +1,7 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
+title: Ryan So
+#logo: /assets/img/headshot_circle.png
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
+# https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# https://github.com/daattali/beautiful-jekyll?tab=readme-ov-file#build-your-website-in-3-steps

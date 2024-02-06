@@ -1,4 +1,4 @@
-# Software Engineer
+# Data Scientist 
 
 #### Programming Languages: Python, Java, C/C++/C#, PostgreSQL
 #### Technical Knowledge:
